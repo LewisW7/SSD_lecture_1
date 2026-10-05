@@ -1,4 +1,4 @@
-# Family secret recipes
+# Graham's Family secret recipes
 
 Set of recipes as given by my grandma.
 
@@ -6,4 +6,4 @@ Set of recipes as given by my grandma.
 
 * Sauces (TODO)
 
-* Spreads (TODO)
+* reads (TODO)
