@@ -2,7 +2,8 @@
 
 Set of recipes as given by my grandma.
 
-* pizza (TODO)
+* pizza
+- https://github.com/MartiNadal/SSD_lecture_1/pizzas/base.md
 
 * Sauces (TODO)
 
